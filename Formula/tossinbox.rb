@@ -4,7 +4,7 @@ class Tossinbox < Formula
   desc "Disposable email inboxes for humans and AI agents (CLI + MCP server)"
   homepage "https://github.com/mohamed-khairy-5i/tossinbox"
   url "https://github.com/mohamed-khairy-5i/tossinbox/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "dff6bd5681a16098ccf3da14cc69517ddbd65f62d03e9dd6c33483995c489c70"
+  sha256 "14de057faabf65409ffa00527358afd122b31565cbac77544a1e14d2dba2c231"
   license "MIT"
 
   depends_on "node"
