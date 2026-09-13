@@ -3,8 +3,8 @@ require "language/node"
 class Tossinbox < Formula
   desc "Disposable email inboxes for humans and AI agents (CLI + MCP server)"
   homepage "https://github.com/mohamed-khairy-5i/tossinbox"
-  url "https://github.com/mohamed-khairy-5i/tossinbox/archive/refs/tags/v0.1.3.tar.gz"
-  sha256 "f5b4be2134964ab3c12fa2c6322475dd1a2e08d775a81f46a837ada68d87bc63"
+  url "https://github.com/mohamed-khairy-5i/tossinbox/archive/refs/tags/v0.1.4.tar.gz"
+  sha256 "82541f4ab216988cbb834994bfe063c758b182f18adf7af31d44db9cf576f42f"
   license "MIT"
 
   depends_on "node"
